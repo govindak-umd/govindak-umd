@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 **govindak-umd/govindak-umd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 
 
@@ -25,11 +25,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_youtube.png", style=”float:right”/>
   </a>
 </p>
-
+-->
 
 ### Hi there 👋
 
-I'm a mechanical engineer turned data scientist who is passionate about artificial intelligence and its ability to make our world a better place. Typically, I like to work on projects involving business analytics, nlp, reinforcement learning, or finance. In my spare time, you will either find me cooking or travelling.
+I am a graduate student in Robotics. I love building robots and am currently interning at Easton Robotics, where I am doing just that. I am interested in Computer Vision, Planning and Software development for robotics. I work with the mechanical, electrical and software development of the robot. I am also a huge fan of motorsports, cars and pizza! When free, I am busy planning my next cross-country road trip!
 
 - 🔭 I’m currently working as a Robotics Engineer at Easton Robotics.
 - 🌱 I’m currently studying for my Masters in Robotics from the University of Maryland.
@@ -37,4 +37,4 @@ I'm a mechanical engineer turned data scientist who is passionate about artifici
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cars and pizza, in no particular order.
 
-[![Vibhor's github stats](https://github-readme-stats.vercel.app/api?username=govindak-umd)](https://github.com/anuraghazra/github-readme-stats)
+[![Govind's github stats](https://github-readme-stats.vercel.app/api?username=govindak-umd)](https://github.com/anuraghazra/github-readme-stats)
