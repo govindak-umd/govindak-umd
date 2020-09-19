@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 
 Here are some ideas to get you started:
@@ -28,6 +26,21 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
+<p align="center">
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_cover.PNG", style="border:0px;margin:0px;float:right" />
+</p>
+
+<p align="center">
+  <a href="mailto: govindak@umd.edu">
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_gmail.jpg", style="border:0px;margin:0px;float:right" />
+  </a>
+  <a href="https://www.linkedin.com/in/govindajithkumar/">
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_linkedin.png" />
+  </a>
+                                                                                      
+  <a href="https://www.youtube.com/channel/UCJEkJ1tzPPUAdqk7tz9PLmg/videos">
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_youtube.png", style=”float:right”/>
+  </a>
 
 I am a graduate student in Robotics. I love building robots and am currently interning at Easton Robotics, where I am doing just that. I am interested in Computer Vision, Planning and Software development for robotics. I work with the mechanical, electrical and software development of the robot. I am also a huge fan of motorsports, cars and pizza! When free, I am busy planning my next cross-country road trip!
 
