@@ -37,4 +37,4 @@ I'm a mechanical engineer turned data scientist who is passionate about artifici
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cars and pizza, in no particular order.
 
-[![Govind's github stats](https://github-readme-stats.vercel.app/api?username=govindak-umd](https://github.com/anuraghazra/github-readme-stats)
+[![Vibhor's github stats](https://github-readme-stats.vercel.app/api?username=govindak-umd)](https://github.com/anuraghazra/github-readme-stats)
