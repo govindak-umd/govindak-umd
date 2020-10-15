@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
   <a href="https://www.linkedin.com/in/govindajithkumar/">
-  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_linkedin.png" />
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_linkedin.png" style=”float:right” />
   </a>
                                                                                       
   <a href="https://www.youtube.com/channel/UCJEkJ1tzPPUAdqk7tz9PLmg/videos">
