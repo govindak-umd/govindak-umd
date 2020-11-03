@@ -20,23 +20,24 @@ Here are some ideas to get you started:
 <p align="center">
   
   <a href="mailto: govindak@umd.edu">
-  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_mail.png", style="border:0px;margin:0px;float:right" />
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_mail.png",, style=”float:right”/ height = "100" width="100"/>
   </a>
 
 
   <a href="https://www.linkedin.com/in/govindajithkumar/">
-  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_linkedin.png" style=”float:right” />
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_linkedin.png" ,style="border:0px;margin:0px;float:right" height = "100" width="100"/>
+  
   </a>
                                                                                       
   <a href="https://www.youtube.com/channel/UCJEkJ1tzPPUAdqk7tz9PLmg/videos">
-  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_youtube.png", style=”float:right”/>
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_youtube.png", style=”float:right” height = "110" width="110" />
   </a>
   
   <a href="https://www.hackerrank.com/govindajithkumar?hr_r=1">
-  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_hackerrank.png", style=”float:right”/>
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_hackerrank.png", style=”float:right”/ height = "100" width="100"/>
   </a>
     <a href="https://govindajithkumar.com/">
-  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_website.png", style=”float:right”/ height = "100" width="100">
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_website.png",, style=”float:right”/ height = "100" width="100">
   </a>
   
 </p>
