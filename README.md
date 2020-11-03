@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   
-  <a href="mailto: govindak@umd.edu">
+  <a href="mailto:govindak@umd.edu">
   <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_mail.png",, style=”float:right”/ height = "100" width="100"/>
   </a>
 
