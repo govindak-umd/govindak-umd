@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_cover.PNG", style="border:0px;margin:0px;float:right" />
 </p>
 <p align="center">
+  
   <a href="mailto: govindak@umd.edu">
   <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_mail.png", style="border:0px;margin:0px;float:right" />
   </a>
@@ -33,6 +34,9 @@ Here are some ideas to get you started:
   
   <a href="https://www.hackerrank.com/govindajithkumar?hr_r=1">
   <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_hackerrank.png", style=”float:right”/>
+  </a>
+    <a href="https://govindajithkumar.com/">
+  <img src="https://github.com/govindak-umd/govindak-umd/blob/master/github_website.png", style=”float:right”/ height = "100" width="100">
   </a>
   
 </p>
