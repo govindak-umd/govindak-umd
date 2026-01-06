@@ -41,12 +41,17 @@ Here are some ideas to get you started:
   </a>
   
 </p>
-I am a graduate student in Robotics. I love building robots and am currently interning at Easton Robotics, where I am doing just that. I am interested in Computer Vision, Planning and Software development for robotics. I work with the mechanical, electrical and software development of the robot. I am also a huge fan of motorsports, cars and pizza! When free, I am busy planning my next cross-country road trip!
+I work as a Senior Systems Software Engineer at Berkshire Grey with end-to-end experience delivering large-scale robotic automation solutions across Robotic Sortation, Buffers, Truck Unloading, and Put Walls. I’ve been involved at every stage of the project lifecycle—from solution design and controls definition through commissioning, go-live, and final acceptance.
+I’ve led the development of Technical Descriptions of Controls with conveyance partners on projects exceeding $15M, led Customer Solutions Documents (CSDs) for key clients, and contributed directly to early stages of big automation work for some of the worlds biggest retailers. My work also includes scripting and executing Test Plans, Verification, and Validation for complex buffer and sortation systems.
+I’ve collaborated in both small and large, cross-functional teams to successfully deliver multi-million-dollar automation systems to customers and partners.
 
-- 🔭 Robotics Engineer at Easton Robotics.
+Outside of work, I enjoy motor racing, making great coffee, and reading. 
+
+Learn more at www.govindajithkumar.wordpress.com
+
+- 🔭 Current Experience - Senior Systems Software Engineer at [Berkshire Grey](https://www.berkshiregrey.com) [Bedford, MA] .
+- 🔭 Past Experience - Robotics Engineer at Easton Robotics.
 - 🌱 Masters in Robotics from the University of Maryland.
 - 📫 You can reach me on any of the links you see above
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cars and pizza, in no particular order.
 
 [![Govind's github stats](https://github-readme-stats.vercel.app/api?username=govindak-umd)](https://github.com/anuraghazra/github-readme-stats)
