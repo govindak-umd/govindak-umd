@@ -30,5 +30,3 @@ Learn more at www.govindajithkumar.wordpress.com
 - 🔭 Past Experience - Robotics Engineer at Easton Robotics.
 - 🌱 Masters in Robotics from the University of Maryland.
 - 📫 You can reach me on any of the links you see above
-
-[![Govind's github stats](https://github-readme-stats.vercel.app/api?username=govindak-umd)](https://github.com/anuraghazra/github-readme-stats)
