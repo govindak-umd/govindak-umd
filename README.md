@@ -24,9 +24,6 @@ I’ve collaborated in both small and large, cross-functional teams to successfu
 
 Outside of work, I enjoy motor racing, making great coffee, and reading. 
 
-Learn more at www.govindajithkumar.wordpress.com
-
 - 🔭 Current Experience - Senior Systems Software Engineer at [Berkshire Grey](https://www.berkshiregrey.com) [Bedford, MA] .
 - 🔭 Past Experience - Robotics Engineer at Easton Robotics.
 - 🌱 Masters in Robotics from the University of Maryland.
-- 📫 You can reach me on any of the links you see above
